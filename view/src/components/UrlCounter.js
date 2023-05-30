@@ -44,7 +44,7 @@ function UrlCounter() {
         <p className="  md:text-left text-gray-400 text-sm">
           {" "}
           <span className="text-white">Example :</span>{" "}
-          https://dtc url shortner-url.vercel.app/AbckedfH
+          https://url-shortner-seven-delta.vercel.app//AbckedfH
         </p>
       </div>
       <p className="md:text-lg text-gray-100 text-sm">
