@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "name": "dtc url shortner",
+  "builds": [{ "src": "./index.js", "use": "@vercel/node" }],
+  "routes": [{ "src": "/(.*)", "dest": "/" }]
+}
